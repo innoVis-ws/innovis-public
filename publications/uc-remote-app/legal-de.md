@@ -6,8 +6,11 @@ Stand: 10. September 2026
 
 ### Anbieter und Verantwortlicher
 
-- **Justin Jäger (jstnjx)**
-- Deutschland
+- **innoVis Web Solutions**
+- Vertreten durch: Justin Jäger
+- Steubenplatz 12
+- 64293 Darmstadt
+- Hessen, Deutschland
 - E-Mail: contact@unfolded.tools
 - Web: [unfolded.tools](https://unfolded.tools)
 - GitHub: [github.com/jstnjx](https://github.com/jstnjx)
@@ -28,8 +31,11 @@ Für rechtliche Hinweise, Datenschutzanfragen, Support und sonstige Anfragen: co
 
 Verantwortlich für die Datenverarbeitung im Zusammenhang mit UC Remote ist:
 
-- **Justin Jäger (jstnjx)**
-- Deutschland
+- **innoVis Web Solutions**
+- Vertreten durch: Justin Jäger
+- Steubenplatz 12
+- 64293 Darmstadt
+- Hessen, Deutschland
 - E-Mail: contact@unfolded.tools
 
 ### 2. Grundprinzip der App
