@@ -6,11 +6,11 @@ Stand: 10. September 2026
 
 ### Anbieter und Verantwortlicher
 
-**Justin Jäger (jstnjx)**  
-Deutschland  
-E-Mail: [contact@unfolded.tools](mailto:contact@unfolded.tools)  
-Web: [unfolded.tools](https://unfolded.tools)  
-GitHub: [github.com/jstnjx](https://github.com/jstnjx)
+- **Justin Jäger (jstnjx)**
+- Deutschland
+- E-Mail: contact@unfolded.tools
+- Web: [unfolded.tools](https://unfolded.tools)
+- GitHub: [github.com/jstnjx](https://github.com/jstnjx)
 
 UC Remote ist ein unabhängiges Open-Source-Projekt für Unfolded Circle Remote Two und Remote 3. Das Projekt wird weder von Unfolded Circle ApS betrieben noch von Unfolded Circle ApS unterstützt oder offiziell gebilligt.
 
@@ -18,7 +18,7 @@ Produktnamen, Marken und Logos Dritter sind Eigentum der jeweiligen Rechteinhabe
 
 ### Kontakt
 
-Für rechtliche Hinweise, Datenschutzanfragen, Support und sonstige Anfragen: [contact@unfolded.tools](mailto:contact@unfolded.tools)
+Für rechtliche Hinweise, Datenschutzanfragen, Support und sonstige Anfragen: contact@unfolded.tools
 
 ---
 
@@ -28,9 +28,9 @@ Für rechtliche Hinweise, Datenschutzanfragen, Support und sonstige Anfragen: [c
 
 Verantwortlich für die Datenverarbeitung im Zusammenhang mit UC Remote ist:
 
-**Justin Jäger (jstnjx)**  
-Deutschland  
-E-Mail: [contact@unfolded.tools](mailto:contact@unfolded.tools)
+- **Justin Jäger (jstnjx)**
+- Deutschland
+- E-Mail: contact@unfolded.tools
 
 ### 2. Grundprinzip der App
 
@@ -64,7 +64,7 @@ Die App kann im lokalen Netzwerk nach kompatiblen Remotes per mDNS suchen. Nach 
 
 Dabei können die vom Nutzer angeforderte Remote-Konfiguration, Aktivitäten, Entitäten, Medien- und Ressourceninformationen sowie Steuerbefehle zwischen dem Gerät und der Remote übertragen werden. Hinterlegte Zugangsdaten werden ausschließlich zur Authentifizierung gegenüber der konfigurierten Remote verwendet.
 
-Bei lokalen/private Netzwerkadressen erlaubt die App auch unverschlüsseltes HTTP. In diesem Fall ist die Übertragung innerhalb des lokalen Netzwerks nicht transportverschlüsselt. Für nicht lokale Ziele verlangt die native App HTTPS.
+Bei lokalen oder privaten Netzwerkadressen erlaubt die App auch unverschlüsseltes HTTP. In diesem Fall ist die Übertragung innerhalb des lokalen Netzwerks nicht transportverschlüsselt. Für nicht lokale Ziele verlangt die native App HTTPS.
 
 Diese direkte LAN-Kommunikation wird nicht über Infrastruktur des Projektbetreibers vermittelt.
 
@@ -110,7 +110,7 @@ Beim Abruf der rechtlichen Informationen ist GitHub der externe Empfänger der d
 
 Soweit die Voraussetzungen der DSGVO vorliegen, bestehen insbesondere Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, eine erteilte Einwilligung mit Wirkung für die Zukunft zu widerrufen.
 
-Datenschutzanfragen können an [contact@unfolded.tools](mailto:contact@unfolded.tools) gerichtet werden.
+Datenschutzanfragen können an contact@unfolded.tools gerichtet werden.
 
 Darüber hinaus besteht das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.
 
