@@ -6,8 +6,11 @@ Last updated: September 10, 2026
 
 ### Provider and responsible person
 
-- **Justin Jäger (jstnjx)**
-- Germany
+- **innoVis Web Solutions**
+- Represented by: Justin Jäger
+- Steubenplatz 12
+- 64293 Darmstadt
+- Hesse, Germany
 - Email: contact@unfolded.tools
 - Web: [unfolded.tools](https://unfolded.tools)
 - GitHub: [github.com/jstnjx](https://github.com/jstnjx)
@@ -26,10 +29,13 @@ For legal notices, privacy requests, support, and other inquiries: contact@unfol
 
 ### 1. Controller
 
-The person responsible for data processing in connection with UC Remote is:
+The controller responsible for data processing in connection with UC Remote is:
 
-- **Justin Jäger (jstnjx)**
-- Germany
+- **innoVis Web Solutions**
+- Represented by: Justin Jäger
+- Steubenplatz 12
+- 64293 Darmstadt
+- Hesse, Germany
 - Email: contact@unfolded.tools
 
 ### 2. Core privacy principle
