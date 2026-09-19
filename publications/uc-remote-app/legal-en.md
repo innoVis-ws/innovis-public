@@ -1,6 +1,6 @@
 # Legal Information
 
-Last updated: September 10, 2026
+Last updated: September 19, 2026
 
 ## Imprint
 
@@ -15,7 +15,7 @@ Last updated: September 10, 2026
 - Web: [unfolded.tools](https://unfolded.tools)
 - GitHub: [github.com/jstnjx](https://github.com/jstnjx)
 
-UC Remote is an independent open-source project for Unfolded Circle Remote Two and Remote 3. The project is not operated by, supported by, or officially endorsed by Unfolded Circle ApS.
+UC Remote is an independently developed third-party application for Unfolded Circle Remote Two and Remote 3. The app is not operated by, supported by, affiliated with, or officially endorsed by Unfolded Circle ApS.
 
 Third-party product names, trademarks, and logos remain the property of their respective owners. They are referenced solely for identification, interoperability, and description of supported devices and services.
 
@@ -42,9 +42,9 @@ The controller responsible for data processing in connection with UC Remote is:
 
 The native UC Remote app for iOS, iPadOS, and Android is designed to operate primarily locally. It connects directly over the local network to an Unfolded Circle Remote Two or Remote 3 configured by the user.
 
-During normal use, Remote activities, entities, commands, and resources are not routed through a server operated by the project operator. The native app does not require an account with the project operator.
+During normal use, Remote activities, entities, commands, and resources are not routed through a server operated by the app provider. The native app does not require an account with the app provider.
 
-The app contains no advertising integrated by the project operator and no analytics, advertising, or tracking SDKs.
+The app contains no advertising integrated by the app provider and no analytics, advertising, or tracking SDKs.
 
 ### 3. Data stored locally on the device
 
@@ -58,7 +58,7 @@ To provide the functions requested by the user, the app stores information local
 - the most recently selected settings section
 - locally cached Remote resources such as icons, backgrounds, TV channel logos, or sounds
 
-This data is stored in local browser or WebView storage such as IndexedDB and Local Storage. Storing it locally does not by itself transmit it to the project operator.
+This data is stored in local browser or WebView storage such as IndexedDB and Local Storage. Storing it locally does not by itself transmit it to the app provider.
 
 The resource cache treats stored Remote resources as stale after 30 days. Data may technically remain on the device until overwritten, corresponding settings or app data are manually cleared, or the app is uninstalled.
 
@@ -72,13 +72,13 @@ Depending on the functions used, Remote configuration, activities, entities, med
 
 For local or private network addresses, the app also permits unencrypted HTTP. In that case, transport within the local network is not encrypted. For non-local destinations, the native app requires HTTPS.
 
-This direct LAN communication is not relayed through infrastructure operated by the project operator.
+This direct LAN communication is not relayed through infrastructure operated by the app provider.
 
 ### 5. Native system features
 
 Depending on the platform and enabled settings, UC Remote may use device features such as haptics, screen orientation controls, iPadOS Live Activities, background refresh, and local activity notifications.
 
-Remote state required for these features is processed by the app on the device. The project operator does not operate a proprietary push-notification service for these features and does not receive Remote activity data through them.
+Remote state required for these features is processed by the app on the device. The app provider does not operate a proprietary push-notification service for these features and does not receive Remote activity data through them.
 
 Permissions can be managed through the operating-system settings of the relevant device.
 
@@ -86,7 +86,7 @@ Permissions can be managed through the operating-system settings of the relevant
 
 The legal information is loaded only when the user opens “Legal”. It is retrieved from the public `innoVis-ws/innovis-public` repository through `raw.githubusercontent.com`.
 
-This request establishes a technical connection to GitHub. GitHub may receive and process information such as the IP address, request time, requested URL, and technical information about the device or app. The project operator does not receive this connection data directly.
+This request establishes a technical connection to GitHub. GitHub may receive and process information such as the IP address, request time, requested URL, and technical information about the device or app. The app provider does not receive this connection data directly.
 
 More information about GitHub's processing is available in the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
@@ -94,13 +94,13 @@ If the user opens the “View source on GitHub” link, the GitHub website is ad
 
 ### 7. Legal bases
 
-Where the project operator actually receives or processes personal data, the legal basis depends on the relevant operation. Processing may in particular be based on Article 6(1)(b) GDPR where it is necessary to perform a service requested by the user within a contractual relationship, or Article 6(1)(f) GDPR based on the legitimate interest in providing the app securely, reliably, and transparently.
+Where the app provider actually receives or processes personal data, the legal basis depends on the relevant operation. Processing may in particular be based on Article 6(1)(b) GDPR where it is necessary to perform a service requested by the user within a contractual relationship, or Article 6(1)(f) GDPR based on the legitimate interest in providing the app securely, reliably, and transparently.
 
-Most processing of Remote and settings data, however, takes place exclusively locally between the user's device and the user's Remote and is not disclosed to the project operator.
+Most processing of Remote and settings data, however, takes place exclusively locally between the user's device and the user's Remote and is not disclosed to the app provider.
 
 ### 8. Retention
 
-During normal use of the native app, the project operator does not store a central copy of locally configured Remote credentials, Remote activities, or Remote entities.
+During normal use of the native app, the app provider does not store a central copy of locally configured Remote credentials, Remote activities, or Remote entities.
 
 Data stored on the device generally remains there until changed or removed by the user, the app's data is cleared, or the app is uninstalled. Short-lived runtime data may be discarded earlier when the app or relevant view is closed.
 
@@ -108,7 +108,7 @@ For data processed by GitHub when the legal information is retrieved, GitHub's o
 
 ### 9. Recipients and international transfers
 
-During normal direct-LAN use, Remote data is not transmitted to the project operator or to a cloud service commissioned by the project operator.
+During normal direct-LAN use, Remote data is not transmitted to the app provider or to a cloud service commissioned by the app provider.
 
 When the legal information is retrieved, GitHub is the external recipient of the resulting technical connection data. GitHub may also process data outside the European Union or European Economic Area. Details are provided in GitHub's privacy information.
 
